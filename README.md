@@ -2,7 +2,7 @@
 
 💻 **Master’s Student in Computer Science @ UCLA** | **Software Engineer & Machine Learning Engineer**  
 🚀 Passionate about leveraging **data-driven insights**, building **scalable, reliable, and impactful software solutions**  
-👩🏻‍💻 Currently, interning **@ IBM, Thailand** as a software engineer
+👩🏻‍💻 Currently, interning **@ IBM, Thailand** as a software engineer  
 👀 Looking for **new-grad opportunities in U.S. and Asia**
 
 ---
